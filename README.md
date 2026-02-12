@@ -16,12 +16,6 @@ Flux is an iOS app developed for the Apple Swift Student Challenge 2026 that tra
 
 This project is packaged as a `.swiftpm` file, which can be run on an iPad or Mac.
 
-### Swift Playgrounds (iPad or Mac)
-
-1. Download the `flux.swiftpm.zip` file.
-2. Open the Swift Playgrounds app.
-3. AirDrop the `.zip` file to your device, or locate it in the Files app and open it with Swift Playgrounds.
-
 ### Xcode (Mac)
 
 For the best development experience or if encountering issues with the `.swiftpm` package, it is recommended to clone the repository and open the Xcode project directly:
@@ -29,6 +23,11 @@ For the best development experience or if encountering issues with the `.swiftpm
 1. Clone this repository: `git clone git@github.com:xavierchen0/flux.git`
 2. Navigate to the project directory: `cd flux`
 3. Open `flux` in Xcode.
+
+### Swift Playgrounds (iPad or Mac)
+
+1. Download the `flux.swiftpm.zip` file and unzip it.
+2. Open the Swift Playgrounds app.
 
 ## Technologies Used
 
