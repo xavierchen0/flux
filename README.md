@@ -1,6 +1,8 @@
-<!-- GIF Placeholder -->
-
 # Flux
+
+<p align="center">
+  <img src="assets/flux_demo.gif" alt="Flux Demo GIF" width="600"/>
+</p>
 
 Flux is an iOS app developed for the Apple Swift Student Challenge 2026 that transforms sound into sight. Using RealityKit, it turns ambient audio into a stunning, interactive 3D seascape, and integrates recommendations from the National Institute for Occupational Safety and Health (NIOSH) and the World Health Organisation (WHO) to inform users of safe exposure time limits when sound levels are too high. This offers a beautiful and engaging way to promote hearing health awareness.
 
